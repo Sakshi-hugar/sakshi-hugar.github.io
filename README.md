@@ -2,7 +2,7 @@
 
 Personal portfolio website of Sakshi H L, a third-year B.Tech student in AI/ML at REVA University, Bengaluru. I train computer-vision models and build the web apps around them.
 
-**Live site:** https://sakshi-hugar.github.io/
+**Live site:** https://my-portfolio/
 
 ## What's inside
 
